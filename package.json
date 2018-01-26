@@ -1,0 +1,23 @@
+{
+  "name": "config-tool",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.2.0",
+    "react-bootstrap": "latest",
+    "redux": "latest",
+    "react-dom": "16.2.0",
+    "react-grid-layout": "latest",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.1.0",
+    "react-sizeme": "latest",
+    "react-window-size": "latest",
+    "uuid": "3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
